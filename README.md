@@ -1,4 +1,6 @@
 # Codewars-Training
+[codewars](https://www.codewars.com)
+
 督促自己練習寫程式~~~
 一週至少五題
 ## Python:
