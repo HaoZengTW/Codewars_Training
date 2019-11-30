@@ -9,3 +9,4 @@
 3. [level 5: The Hunger Games - Zoo Disaster! (2019-11-25)](https://hackmd.io/opN12LiZSae7vyJNSsTTiA)
 4. [level 5:Airport Arrivals/Departures - #1(2019-11-26)](https://hackmd.io/BKd3HkDbTPu56re7CvLI_Q)
 5. [level 5:Gap in Primes(2019-11-29)](https://hackmd.io/s0_zZtYmRPi2EM45gDkssA)
+6. [level 5:Convert PascalCase string into snake_case(2019-11-30)](https://hackmd.io/xhAptUmaQIqV7TfSmkBOLQ)
