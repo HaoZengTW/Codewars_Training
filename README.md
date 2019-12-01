@@ -10,3 +10,4 @@
 4. [level 5:Airport Arrivals/Departures - #1(2019-11-26)](https://hackmd.io/BKd3HkDbTPu56re7CvLI_Q)
 5. [level 5:Gap in Primes(2019-11-29)](https://hackmd.io/s0_zZtYmRPi2EM45gDkssA)
 6. [level 5:Convert PascalCase string into snake_case(2019-11-30)](https://hackmd.io/xhAptUmaQIqV7TfSmkBOLQ)
+7. [level 5:Calculating with Functions(2019-12-01)](https://hackmd.io/DPKWs_Q_Te6L-aICRa0efQ)~~~python lambda function 
