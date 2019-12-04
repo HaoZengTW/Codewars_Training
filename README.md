@@ -1,8 +1,9 @@
 # Codewars-Training
 [codewars](https://www.codewars.com)
 
-督促自己練習寫程式~~~
-一週至少五題
+練習寫程式的能力。
+目標一個月 10 題
+
 ## Python:
 1. [level 5: Perimeter of squares in a rectangle (2019-11-22)](https://hackmd.io/JkgSG2znT8a8Rm4GSIsAsQ)
 2. [level 5: k-Primes (2019-11-23)](https://hackmd.io/ULDeTeW3RR-R-9_dMMEHDQ)
