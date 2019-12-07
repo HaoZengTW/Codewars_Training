@@ -1,8 +1,7 @@
 # Codewars-Training
 [codewars](https://www.codewars.com)
 
-練習寫程式的能力。
-目標一個月 10 題
+練習寫程式的能力。加油~加油~~加油~~~
 
 ## Python:
 1. [level 5: Perimeter of squares in a rectangle (2019-11-22)](https://hackmd.io/JkgSG2znT8a8Rm4GSIsAsQ)
