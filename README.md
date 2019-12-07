@@ -14,3 +14,4 @@
 7. [level 5:Calculating with Functions(2019-12-01)](https://hackmd.io/DPKWs_Q_Te6L-aICRa0efQ)~~~python lambda function 
 8. [level 4:Next bigger number with the same digits(2019-12-02)](https://hackmd.io/FxqOFHw4TkCQUW2dYt1m9A?view)
 9. [level 6:Convert string to camel case(2019-12-06)](https://hackmd.io/ysHN8nwYQRWFBD-HYWk7WA)
+10. [level 4:Human readable duration format(2019-12-07)](https://hackmd.io/-mpVKQcvTxKApX1Aow6AUA)
